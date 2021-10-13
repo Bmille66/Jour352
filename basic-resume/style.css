@@ -1,13 +1,13 @@
 body {
 	font-family: Open Sans, Arial, Sans-Serif;
 	font-size:1em;
-	color #444;
+	color: #444;
 	font-weight: 400;
 }
 
 h1{
 	font-size: 3em;
-	color#33485e;
+	color: #33485e;
 	text-transform: uppercase;
 }
 
@@ -18,7 +18,7 @@ img {
 b{
 	text-transform: uppercase;
 	font-size: 1.5em;
-	color: 33485;
+	color: #33485e;
 }
 
 h2 {
