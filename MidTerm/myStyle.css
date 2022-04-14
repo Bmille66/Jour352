@@ -1,0 +1,23 @@
+h1 {
+	font-weight: 700;
+  color: whitesmoke;
+  border-style: double;
+}
+
+h2 {
+  padding: 10px; border: 2px;
+  color: whitesmoke;
+  background-color: black;
+}
+
+h3 {
+  padding: 10px; border:  2px;
+	font-weight: 700;
+}
+
+.par {color: darkblue;
+
+}
+
+
+
